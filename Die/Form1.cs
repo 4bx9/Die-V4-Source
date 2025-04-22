@@ -15,9 +15,7 @@ namespace Die
         }
 
         public static api ireallywantadildoorabuttplugORbobinmern = new api(
-            name: "Die",
-                                                                                                                                      ownerid: "hBd9BVd8j6",
-            version: "1.0"
+// NOT LEAKING MY THING
         );
 
 
